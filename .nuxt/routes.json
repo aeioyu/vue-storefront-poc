@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Category___en",
+    "path": "/Category",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_5c3850f0"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___en",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Billing.vue",
+        "_name": "_2421bd1c"
+      },
+      {
+        "path": "payment",
+        "name": "payment___en",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Payment.vue",
+        "_name": "_7a5de1b2"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___en",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Shipping.vue",
+        "_name": "_c05fc646"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___en",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/ThankYou.vue",
+        "_name": "_ed442ef8"
+      }
+    ],
+    "_name": "_0fab03d0"
+  },
+  {
+    "name": "Checkout___en",
+    "path": "/Checkout",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___en",
+        "path": "Billing",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Billing.vue",
+        "chunkName": "pages/Checkout/Billing",
+        "_name": "_2421bd1c"
+      },
+      {
+        "name": "Checkout-Payment___en",
+        "path": "Payment",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_7a5de1b2"
+      },
+      {
+        "name": "Checkout-Shipping___en",
+        "path": "Shipping",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_c05fc646"
+      },
+      {
+        "name": "Checkout-ThankYou___en",
+        "path": "ThankYou",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_ed442ef8"
+      }
+    ],
+    "_name": "_0fab03d0"
+  },
+  {
+    "name": "home___de",
+    "path": "/de",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Home.vue",
+    "_name": "_3713002e"
+  },
+  {
+    "name": "Home___en",
+    "path": "/Home",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_3713002e"
+  },
+  {
+    "name": "MyAccount___en",
+    "path": "/MyAccount",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___en",
+        "path": "BillingDetails",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_44459f5f"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___en",
+        "path": "LoyaltyCard",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_8081d1e4"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___en",
+        "path": "MyNewsletter",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_d7fcbec6"
+      },
+      {
+        "name": "MyAccount-MyProfile___en",
+        "path": "MyProfile",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_66200575"
+      },
+      {
+        "name": "MyAccount-MyReviews___en",
+        "path": "MyReviews",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_a4ba3232"
+      },
+      {
+        "name": "MyAccount-OrderHistory___en",
+        "path": "OrderHistory",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_6f46c1fe"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___en",
+        "path": "ShippingDetails",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_176c9768"
+      }
+    ],
+    "_name": "_20cfbc47"
+  },
+  {
+    "name": "Product___en",
+    "path": "/Product",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_49e1b2d5"
+  },
+  {
+    "name": "Category___de",
+    "path": "/de/Category",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_5c3850f0"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___de",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Billing.vue",
+        "_name": "_2421bd1c"
+      },
+      {
+        "path": "payment",
+        "name": "payment___de",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Payment.vue",
+        "_name": "_7a5de1b2"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___de",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Shipping.vue",
+        "_name": "_c05fc646"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___de",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/ThankYou.vue",
+        "_name": "_ed442ef8"
+      }
+    ],
+    "_name": "_0fab03d0"
+  },
+  {
+    "name": "Checkout___de",
+    "path": "/de/Checkout",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___de",
+        "path": "Billing",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Billing.vue",
+        "chunkName": "pages/Checkout/Billing",
+        "_name": "_2421bd1c"
+      },
+      {
+        "name": "Checkout-Payment___de",
+        "path": "Payment",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_7a5de1b2"
+      },
+      {
+        "name": "Checkout-Shipping___de",
+        "path": "Shipping",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_c05fc646"
+      },
+      {
+        "name": "Checkout-ThankYou___de",
+        "path": "ThankYou",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Checkout/ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_ed442ef8"
+      }
+    ],
+    "_name": "_0fab03d0"
+  },
+  {
+    "name": "Home___de",
+    "path": "/de/Home",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_3713002e"
+  },
+  {
+    "name": "MyAccount___de",
+    "path": "/de/MyAccount",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___de",
+        "path": "BillingDetails",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_44459f5f"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___de",
+        "path": "LoyaltyCard",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_8081d1e4"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___de",
+        "path": "MyNewsletter",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_d7fcbec6"
+      },
+      {
+        "name": "MyAccount-MyProfile___de",
+        "path": "MyProfile",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_66200575"
+      },
+      {
+        "name": "MyAccount-MyReviews___de",
+        "path": "MyReviews",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_a4ba3232"
+      },
+      {
+        "name": "MyAccount-OrderHistory___de",
+        "path": "OrderHistory",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_6f46c1fe"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___de",
+        "path": "ShippingDetails",
+        "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount/ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_176c9768"
+      }
+    ],
+    "_name": "_20cfbc47"
+  },
+  {
+    "name": "Product___de",
+    "path": "/de/Product",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_49e1b2d5"
+  },
+  {
+    "name": "my-account___de",
+    "path": "/de/my-account/:pageName?",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount.vue",
+    "_name": "_20cfbc47"
+  },
+  {
+    "name": "product___de",
+    "path": "/de/p/:id/:slug",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Product.vue",
+    "_name": "_49e1b2d5"
+  },
+  {
+    "name": "category___de",
+    "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Category.vue",
+    "_name": "_5c3850f0"
+  },
+  {
+    "name": "my-account___en",
+    "path": "/my-account/:pageName?",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/MyAccount.vue",
+    "_name": "_20cfbc47"
+  },
+  {
+    "name": "product___en",
+    "path": "/p/:id/:slug",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Product.vue",
+    "_name": "_49e1b2d5"
+  },
+  {
+    "name": "category___en",
+    "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Category.vue",
+    "_name": "_5c3850f0"
+  },
+  {
+    "name": "home___en",
+    "path": "/",
+    "component": "/Users/yu/Documents/GitHub/vue-storefront-poc/pages/Home.vue",
+    "_name": "_3713002e"
+  }
+]

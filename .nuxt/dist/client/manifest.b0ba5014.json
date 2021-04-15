@@ -1,0 +1,10 @@
+{
+  "name": "test2",
+  "short_name": "test2",
+  "description": "My breathtaking Nuxt.js project",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
